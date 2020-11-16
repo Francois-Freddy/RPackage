@@ -1,0 +1,58 @@
+Package: MAT8186
+Title: Compilation des fonctions de la session Automne 2020
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "Francois Freddy",
+           family = "Ateba",
+           role = c("aut", "cre"),
+           email = "ateba.francois_freddy@courrier.uqam.ca",
+           comment = c(ORCID = "https://orcid.org/0000-0003-1171-7288"))
+Description: Notre  package contient plusieurs fonctions issues des devoirs de la session Automne 2020
+Fourier  : fonctions de calcul de la transformee de Fourier discrete.
+dft1_naive : version naive.
+dft1_iter  : version iterative.
+dft1_matrix: version matricielle.
+dft_factory: "constructeur de version de fonctions" a)naive b)iterative c)matricielles.
+dft_naive: version naive utlisant le "constructeur de version de fonctions" dft_factory.
+dft_iter: version iterative utlisant le "constructeur de version de fonctions" dft_factory.
+dft_matrix: version matricielle utlisant le "constructeur de version de fonctions" dft_factory.
+Fibonaci : fonction de calcul du kieme terme de la suite de Fibonnacci.
+fib_mulPos_rec : calcule le kieme terme de la suite de Fibonnacci multiplicative positionnelle.
+Cooley-Tukey  : fonction de calcul de la transformee de Fourier de Cooley-Tukey
+fft_ct2 : calcule la transformee de Fourier de Cooley-Tukey de base  en utlisant la methode «diviser pour conquérir».
+Simulations  : fonctions de simulation des réalisations d’une variable aléatoire discrète en utilisant 
+               la méthode de la transformée inverse.
+rand_gen    : fonction  "constructeur" de simulateur.
+rand_trans  : fonction appliquant une transformation à un simulateur produit par la fonction  "constructeur" de simulateur.
+rand_sum    : fonction faisant la somme de deux simulateurs.
+rand__stats : fonction retournant un vecteur contenant la proportion de chacun des nombres générés .
+rand_hist   : fonction affichant l’histogramme des valeurs générées par un simulateur.
+Generation  : fonctions de calcul et decompositions de termes.
+nombres_dec : une fonction pour calculez le plus de termes possibles compris entre -1e10 et 1e10 tel que pour chacun des
+             termes calculés, il soit possible de retrouver sa «décomposition» facilement et rapidement.
+ La fonction se sert :
+   des chiffres 2, 2, 5, 6, 6, 6, 7, 9 et des opérateurs binaires +, -, *, /, ^
+ Avec pour regles que:
+   les chiffres ne peuvent être combinés qu’à l’aide d’une opération binaire
+   elle utilise chaque chiffre qu’une seule fois,
+   elle réutilise les opérations aussi souvent que voulu et les parenthèses sont interdites.
+Polynomes : ensemble de fonctions operant sur la classe de polynomes plynR.
+plynR : classe modélisant l’ensemble des  polynômes en <U+0001D465> sur x sur R en se servant d un constructeur
+               plynR(coefs) où coefs est le vecteur des coeffcients.    
+plynR.print: fonction implementant la méthode print(x) pour afficher les polynômes x de la classe plynR à      
+               l’écran en faisant appel à la fonction cat.            
+plus.plynR: fonction implementant la méthode plus(p,q) permettant d’additionner deux polynômes  
+moins.plynR: fonction implementant la méthode moins(p,q) permettant de soustraire deux polynômes  
+fois.plynR: fonction implementant la méthode fois(p,q) permettant de multiplier deux polynômes  
+derive.plynR: fonction implementant la méthode derive.plynR(p) permettant de deriver un polynôme  
+racines.plynR: fonction implementant la méthode racines.plynR(p) permettant de trouver les racines d un polynôme
+               en utilisant la fonction polyroot.
+summary.plynR: fonction implementant la méthode summary.plynR(p) permettant d’afficher le polynôme p
+               à l’écran, affiche sa factorisation.   
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9000
+Suggests: 
+    testthat
