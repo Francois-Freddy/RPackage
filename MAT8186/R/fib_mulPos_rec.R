@@ -1,4 +1,6 @@
-#' fib_mulPos_rec implemente la suite de Fibonnacci multiplicative positionnelle
+#' fib_mulPos_rec
+#'
+#'la fonction fib_mulPos_rec implemente la suite de Fibonnacci multiplicative positionnelle
 # qui calcule le kieme terme de la suite de Fibonnacci multiplicative
 # positionnelle
 #'

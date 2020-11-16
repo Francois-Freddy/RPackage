@@ -2,7 +2,7 @@
 % Please edit documentation in R/dft1_naive.R
 \name{dft1_naive}
 \alias{dft1_naive}
-\title{dft1_naive implemente la version naive de la transformee de Fourier discrete.}
+\title{dft1_naive}
 \usage{
 dft1_naive(k, x)
 }
@@ -15,7 +15,7 @@ dft1_naive(k, x)
 Xk le nombre complexe correspondant
 }
 \description{
-dft1_naive implemente la version naive de la transformee de Fourier discrete.
+dft1_naive  implemente la version naive de la transformee de Fourier discrete.
 }
 \examples{
 dft1_naive(2,c(3+1i,7+4i))

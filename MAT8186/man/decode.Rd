@@ -2,7 +2,7 @@
 % Please edit documentation in R/res.R
 \name{decode}
 \alias{decode}
-\title{Fonction qui gere l'affichage}
+\title{res}
 \usage{
 decode(nb)
 }
@@ -13,7 +13,7 @@ decode(nb)
 liste de nombres et une de leurs decompositions
 }
 \description{
-Fonction qui gere l'affichage
+res est une onction qui gere l'affichage des nombres decomposes par nombres_dec
 }
 \examples{
 decode(nombres_dec()[[1]])

@@ -2,8 +2,7 @@
 % Please edit documentation in R/deriveplynR.R
 \name{derive}
 \alias{derive}
-\title{Definition la methode Implémente la méthode derive(p)
-de permettant de multiplier les polynômes la classe plynR.}
+\title{derive}
 \usage{
 derive(p)
 }
@@ -11,8 +10,8 @@ derive(p)
 \item{p}{objet de la classe plynR}
 }
 \description{
-Definition la methode Implémente la méthode derive(p)
-de permettant de multiplier les polynômes la classe plynR.
+cette fonction implémente la méthode derive
+permettant de deriver les polynômes la classe plynR.
 }
 \examples{
 p=plynR(coefs=c(2,5,3))

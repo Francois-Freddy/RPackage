@@ -2,8 +2,7 @@
 % Please edit documentation in R/plusplynR.R
 \name{plus}
 \alias{plus}
-\title{Definition la methode Implémente la méthode plus(p, q)
-de permettant d’additionner les polynômes la classe plynR}
+\title{plus}
 \usage{
 plus(p, q)
 }
@@ -13,7 +12,7 @@ plus(p, q)
 \item{q}{objet de la classe plynR}
 }
 \description{
-Definition la methode Implémente la méthode plus(p, q)
+la methode Implémente la méthode plus(p,q)
 de permettant d’additionner les polynômes la classe plynR
 }
 \examples{

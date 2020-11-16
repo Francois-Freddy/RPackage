@@ -2,8 +2,7 @@
 % Please edit documentation in R/dft_iter.R
 \name{dft_iter}
 \alias{dft_iter}
-\title{dft_iter  implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
-de la version iterative dft1_iter.}
+\title{dft_iter}
 \usage{
 dft_iter(x)
 }

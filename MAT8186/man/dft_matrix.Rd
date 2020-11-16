@@ -2,8 +2,7 @@
 % Please edit documentation in R/dft_matrix.R
 \name{dft_matrix}
 \alias{dft_matrix}
-\title{dft_iter  implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
-de la version matricielle dft_matrix.}
+\title{dft_matrix}
 \usage{
 dft_matrix(x)
 }
@@ -14,7 +13,7 @@ dft_matrix(x)
 vecteur complexe correspondanst à (Xk)
 }
 \description{
-dft_iter  implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
+dft_matrix   implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
 de la version matricielle dft_matrix.
 }
 \examples{

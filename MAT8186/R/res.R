@@ -1,4 +1,6 @@
-#' Fonction qui gere l'affichage
+#' res
+#'
+#' res est une onction qui gere l'affichage des nombres decomposes par nombres_dec
 #'
 #' @param nb un nombre
 #'

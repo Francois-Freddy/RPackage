@@ -1,4 +1,6 @@
-#' dft_iter  implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
+#' dft_matrix
+#'
+#' dft_matrix   implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
 #' de la version matricielle dft_matrix.
 #'
 #' @param x un vecteur complexe

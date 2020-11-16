@@ -2,7 +2,7 @@
 % Please edit documentation in R/fft_ct2.R
 \name{fftct2}
 \alias{fftct2}
-\title{cette fonction implemente la transformee de Fourier de Cooley Tukey de base  en utlisant la methode diviser pour conquerir}
+\title{fftct2}
 \usage{
 fftct2(x)
 }
@@ -13,7 +13,7 @@ fftct2(x)
 le vecteur complexe correspondant à Xk.
 }
 \description{
-cette fonction implemente la transformee de Fourier de Cooley Tukey de base  en utlisant la methode diviser pour conquerir
+la fonction fftct2 implemente la transformee de Fourier de Cooley Tukey de base  en utlisant la methode diviser pour conquerir
 }
 \examples{
 fftct2(c(1+1i,4+7i,6+9i,20+3i))

@@ -2,8 +2,7 @@
 % Please edit documentation in R/foisplynR.R
 \name{fois}
 \alias{fois}
-\title{Definition la methode Implémente la méthode fois(p, q)
-de permettant de multiplier les polynômes la classe plynR.}
+\title{fois}
 \usage{
 fois(p, q)
 }
@@ -13,7 +12,7 @@ fois(p, q)
 \item{q}{objet de la classe plynR}
 }
 \description{
-Definition la methode Implémente la méthode fois(p, q)
+la methode fois implémente la méthode fois(p, q)
 de permettant de multiplier les polynômes la classe plynR.
 }
 \examples{

@@ -2,7 +2,7 @@
 % Please edit documentation in R/dft_factory.R
 \name{dft_factory}
 \alias{dft_factory}
-\title{dft_factory implemente la transformee de Fourier discrete en faisant usage des versions soit,naive,iterative ou matricielle}
+\title{dft_factory}
 \usage{
 dft_factory(F, x)
 }

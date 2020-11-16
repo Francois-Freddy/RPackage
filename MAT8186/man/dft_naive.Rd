@@ -2,8 +2,7 @@
 % Please edit documentation in R/dft_naive.R
 \name{dft_naive}
 \alias{dft_naive}
-\title{dft_naive implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
-de la version naive dft1_naive.}
+\title{dft_naive}
 \usage{
 dft_naive(x)
 }

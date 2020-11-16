@@ -1,8 +1,6 @@
 #' rand_gen
 #'
-#' rand_gen retourne une fonction permettant de simuler des
-#  réalisations d’une variable aléatoire discrète
-#  en utilisant la méthode de la transformée inverse.
+#' rand_gen retourne une fonction permettant creer un simulateur en utilisant la méthode de la transformée inverse.
 #'
 #' @param x vecteur de nombres entiers de taille arbitraire
 #' @param trans fonction de transformation

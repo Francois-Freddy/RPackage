@@ -1,3 +1,5 @@
+#'dft_naive
+#'
 #' dft_naive implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
 #' de la version naive dft1_naive.
 #'

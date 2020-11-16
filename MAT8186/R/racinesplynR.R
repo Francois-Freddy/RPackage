@@ -1,5 +1,7 @@
-#'Definition la methode Implémente la méthode racines.plynR
-#'de permettant de trouver les racines les polynômes la classe plynR.
+#'racines
+#'
+#'cette fonction implémente la méthode racines.plynR
+#'permettant de trouver les racines les polynômes la classe plynR.
 #'
 #' @param p objet de la classe plynR
 #' @examples

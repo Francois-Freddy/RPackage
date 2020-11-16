@@ -2,8 +2,7 @@
 % Please edit documentation in R/summaryplynR.R
 \name{summary}
 \alias{summary}
-\title{Definition la methode Implémente la méthode summary.plynR.
-de permettant de trouver les racines les polynômes la classe plynR.}
+\title{summary}
 \usage{
 summary(p)
 }
@@ -11,8 +10,8 @@ summary(p)
 \item{p}{objet de la classe plynR}
 }
 \description{
-Definition la methode Implémente la méthode summary.plynR.
-de permettant de trouver les racines les polynômes la classe plynR.
+summary implémente la méthode summary.plynR.
+permettant de trouver les racines les polynômes la classe plynR.
 }
 \examples{
 p=plynR(coefs=c(2,5,3))

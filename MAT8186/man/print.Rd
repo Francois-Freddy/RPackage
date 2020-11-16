@@ -2,8 +2,7 @@
 % Please edit documentation in R/printplynR.R
 \name{print}
 \alias{print}
-\title{Definition la methode print(x) pour la classe plynR permettant d’afficher
-le polynôme x a l’écran en faisant appel à la fonction cat}
+\title{print}
 \usage{
 print(x)
 }
@@ -11,7 +10,7 @@ print(x)
 \item{x}{objet de la classe plynR}
 }
 \description{
-Definition la methode print(x) pour la classe plynR permettant d’afficher
+la methode print(x) pour la classe plynR permettant d’afficher
 le polynôme x a l’écran en faisant appel à la fonction cat
 }
 \examples{

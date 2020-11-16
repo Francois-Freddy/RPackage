@@ -1,3 +1,5 @@
+#' dft_iter
+#'
 #' dft_iter  implemente la transformee de Fourier discrete naive en faisant usage du "constructeur dft_factory
 #' de la version iterative dft1_iter.
 #'

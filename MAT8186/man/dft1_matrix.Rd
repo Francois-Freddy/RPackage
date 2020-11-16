@@ -2,7 +2,7 @@
 % Please edit documentation in R/dft1_matrix.R
 \name{dft1_matrix}
 \alias{dft1_matrix}
-\title{dft1_matrix implemente la version matricielle de la transformee de Fourier discrete en faisant usage de la fonction crossprod}
+\title{dft1_matrix}
 \usage{
 dft1_matrix(k, x)
 }

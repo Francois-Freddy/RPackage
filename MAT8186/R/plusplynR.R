@@ -1,4 +1,6 @@
-#'Definition la methode Implémente la méthode plus(p, q)
+#'plus
+#'
+#'la methode Implémente la méthode plus(p,q)
 #'de permettant d’additionner les polynômes la classe plynR
 #'
 #' @param p objet de la classe plynR

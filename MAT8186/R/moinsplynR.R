@@ -1,4 +1,6 @@
-#'Definition la methode Implémente la méthode moins(p, q)
+#'moins
+#'
+#'la methode Implémente la méthode moins(p, q)
 #'de permettant de sosutraire les polynômes la classe plynR
 #'
 #' @param p objet de la classe plynR

@@ -2,7 +2,7 @@
 % Please edit documentation in R/rand_trans.R
 \name{rand_trans}
 \alias{rand_trans}
-\title{rand_trans fonction permettant d’appliquer une transformation à un simulateur produit}
+\title{rand_trans}
 \usage{
 rand_trans(sim, trans)
 }
@@ -15,7 +15,7 @@ rand_trans(sim, trans)
 une fonction (simulateur) permettant de simuler de la distribution originale de sim transformée
 }
 \description{
-rand_trans fonction permettant d’appliquer une transformation à un simulateur produit
+rand_trans est une  fonction permettant d’appliquer une transformation à un simulateur produit
 }
 \examples{
 rand_trans(rand_gen(x=c(2,5)),trans=identity)(3)

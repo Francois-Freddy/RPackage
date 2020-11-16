@@ -15,7 +15,7 @@ rand_gen(x, trans = identity)
 sim fonction simulateur acceptant un seul argument n positif et tenant le compte de chacune des valeurs simulées
 }
 \description{
-rand_gen retourne une fonction permettant de simuler des
+rand_gen retourne une fonction permettant creer un simulateur en utilisant la méthode de la transformée inverse.
 }
 \examples{
 rand_gen(x=c(2,5,9,7,6),trans=identity)

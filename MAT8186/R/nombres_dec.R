@@ -1,3 +1,5 @@
+#' nombres_dec
+#'
 #' nombres_dec  est une fonction pour calculez le plus de termes possibles compris entre −1e10 et 1e10 tel que pour chacun des
 #' termes calculés, il soit possible de retrouver sa «décomposition» facilement et rapidement.
 #'

@@ -1,4 +1,6 @@
-#'Definition la methode Implémente la méthode fois(p, q)
+#'fois
+#'
+#'la methode fois implémente la méthode fois(p, q)
 #'de permettant de multiplier les polynômes la classe plynR.
 #'
 #' @param p objet de la classe plynR

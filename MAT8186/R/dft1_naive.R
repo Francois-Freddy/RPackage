@@ -1,5 +1,6 @@
-
-#' dft1_naive implemente la version naive de la transformee de Fourier discrete.
+#' dft1_naive
+#'
+#' dft1_naive  implemente la version naive de la transformee de Fourier discrete.
 #'
 #' @param k un nombre naturel
 #' @param x un vecteur complexe

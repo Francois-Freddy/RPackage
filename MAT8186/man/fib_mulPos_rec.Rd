@@ -2,7 +2,7 @@
 % Please edit documentation in R/fib_mulPos_rec.R
 \name{fib_mulPos_rec}
 \alias{fib_mulPos_rec}
-\title{fib_mulPos_rec implemente la suite de Fibonnacci multiplicative positionnelle}
+\title{fib_mulPos_rec}
 \usage{
 fib_mulPos_rec(k)
 }
@@ -13,7 +13,7 @@ fib_mulPos_rec(k)
 kieme terme de la suite de Fibonnacci multiplicative positionnelle.
 }
 \description{
-fib_mulPos_rec implemente la suite de Fibonnacci multiplicative positionnelle
+la fonction fib_mulPos_rec implemente la suite de Fibonnacci multiplicative positionnelle
 }
 \examples{
 fib_mulPos_rec(5)

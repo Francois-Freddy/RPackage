@@ -2,7 +2,7 @@
 % Please edit documentation in R/plynR.R
 \name{plynR}
 \alias{plynR}
-\title{plynR casse plynR modélisant l’ensemble des polynômes en 𝑥 sur R en se servant d un constructeur}
+\title{plynR}
 \usage{
 plynR(coefs)
 }

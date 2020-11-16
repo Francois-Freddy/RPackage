@@ -2,8 +2,7 @@
 % Please edit documentation in R/nombres_dec.R
 \name{nombres_dec}
 \alias{nombres_dec}
-\title{nombres_dec  est une fonction pour calculez le plus de termes possibles compris entre −1e10 et 1e10 tel que pour chacun des
-termes calculés, il soit possible de retrouver sa «décomposition» facilement et rapidement.}
+\title{nombres_dec}
 \usage{
 nombres_dec(
   chiffres = c(2, 2, 5, 6, 6, 6, 7, 9),

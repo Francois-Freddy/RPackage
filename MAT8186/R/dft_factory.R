@@ -1,3 +1,5 @@
+#' dft_factory
+#'
 #' dft_factory implemente la transformee de Fourier discrete en faisant usage des versions soit,naive,iterative ou matricielle
 #' @param F une fonction.
 #' @param x un vecteur complexe.

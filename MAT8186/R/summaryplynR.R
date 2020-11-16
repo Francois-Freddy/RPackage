@@ -1,5 +1,7 @@
-#'Definition la methode Implémente la méthode summary.plynR.
-#'de permettant de trouver les racines les polynômes la classe plynR.
+#'summary
+#'
+#'summary implémente la méthode summary.plynR.
+#'permettant de trouver les racines les polynômes la classe plynR.
 #'
 #' @param p objet de la classe plynR
 #' @examples

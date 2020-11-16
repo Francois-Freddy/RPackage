@@ -2,8 +2,7 @@
 % Please edit documentation in R/racinesplynR.R
 \name{racines}
 \alias{racines}
-\title{Definition la methode Implémente la méthode racines.plynR
-de permettant de trouver les racines les polynômes la classe plynR.}
+\title{racines}
 \usage{
 racines(p)
 }
@@ -11,8 +10,8 @@ racines(p)
 \item{p}{objet de la classe plynR}
 }
 \description{
-Definition la methode Implémente la méthode racines.plynR
-de permettant de trouver les racines les polynômes la classe plynR.
+cette fonction implémente la méthode racines.plynR
+permettant de trouver les racines les polynômes la classe plynR.
 }
 \examples{
 p=plynR(coefs=c(2,5,3))

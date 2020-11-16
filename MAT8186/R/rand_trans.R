@@ -1,4 +1,6 @@
-#' rand_trans fonction permettant d’appliquer une transformation à un simulateur produit
+#'rand_trans
+#'
+#'rand_trans est une  fonction permettant d’appliquer une transformation à un simulateur produit
 # par la fonction que vous avez programmé en (a) generee par rand_gen
 #'
 #' @param sim le simulateur genere par rand_gen

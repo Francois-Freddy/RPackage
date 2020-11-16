@@ -2,8 +2,7 @@
 % Please edit documentation in R/moinsplynR.R
 \name{moins}
 \alias{moins}
-\title{Definition la methode Implémente la méthode moins(p, q)
-de permettant de sosutraire les polynômes la classe plynR}
+\title{moins}
 \usage{
 moins(p, q)
 }
@@ -13,7 +12,7 @@ moins(p, q)
 \item{q}{objet de la classe plynR}
 }
 \description{
-Definition la methode Implémente la méthode moins(p, q)
+la methode Implémente la méthode moins(p, q)
 de permettant de sosutraire les polynômes la classe plynR
 }
 \examples{

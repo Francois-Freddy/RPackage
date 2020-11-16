@@ -1,4 +1,6 @@
-#' cette fonction implemente la transformee de Fourier de Cooley Tukey de base  en utlisant la methode diviser pour conquerir
+#' fftct2
+#'
+#' la fonction fftct2 implemente la transformee de Fourier de Cooley Tukey de base  en utlisant la methode diviser pour conquerir
 #'
 #' @param x un vecteur complexe
 #'

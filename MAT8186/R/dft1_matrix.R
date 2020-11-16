@@ -1,3 +1,5 @@
+#' dft1_matrix
+#'
 #' dft1_matrix implemente la version matricielle de la transformee de Fourier discrete en faisant usage de la fonction crossprod
 #'
 #' @param k un nombre naturel

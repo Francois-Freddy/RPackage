@@ -1,4 +1,6 @@
-#'Definition la methode print(x) pour la classe plynR permettant d’afficher
+#'print
+#'
+#'la methode print(x) pour la classe plynR permettant d’afficher
 #'le polynôme x a l’écran en faisant appel à la fonction cat
 #'
 #' @param x objet de la classe plynR

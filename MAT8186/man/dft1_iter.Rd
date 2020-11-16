@@ -2,7 +2,7 @@
 % Please edit documentation in R/dft1_iter.R
 \name{dft1_iter}
 \alias{dft1_iter}
-\title{dft1_iter implemente la version iterative de la transformee de Fourier discrete.}
+\title{dft1_iter}
 \usage{
 dft1_iter(k, x)
 }

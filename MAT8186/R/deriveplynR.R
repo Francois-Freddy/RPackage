@@ -1,5 +1,7 @@
-#'Definition la methode Implémente la méthode derive(p)
-#'de permettant de multiplier les polynômes la classe plynR.
+#'derive
+#'
+#'cette fonction implémente la méthode derive
+#'permettant de deriver les polynômes la classe plynR.
 #'
 #' @param p objet de la classe plynR
 #' @examples

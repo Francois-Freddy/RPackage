@@ -1,3 +1,5 @@
+#' dft1_iter
+#'
 #' dft1_iter implemente la version iterative de la transformee de Fourier discrete.
 #'
 #' @param k  un nombre naturel

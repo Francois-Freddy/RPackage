@@ -1,3 +1,5 @@
+#' plynR
+#'
 #' plynR casse plynR modélisant l’ensemble des polynômes en 𝑥 sur R en se servant d un constructeur
 #'
 #' @param coefs liste de coefficients du polynome
